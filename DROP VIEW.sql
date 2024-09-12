@@ -1,0 +1,1 @@
+DROP VIEW vw_konum;  -- vm_konum (VIEW) kaldırıldı. --
